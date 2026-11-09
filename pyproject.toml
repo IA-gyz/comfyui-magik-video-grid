@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-video-grid"
+version = "1.0.0"
+description = 'Magik Video Grid'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-video-grid"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Video Grid"
